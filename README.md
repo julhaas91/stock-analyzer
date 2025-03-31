@@ -2,6 +2,8 @@
 
 A web application that analyzes S&P 500 stocks using the 200-week moving average strategy. The application helps identify interesting stocks based on their deviation from the 200-week moving average.
 
+![Demo GIF](demo.gif)
+
 ## Features
 
 - Real-time S&P 500 stock data fetching
